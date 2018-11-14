@@ -1,1 +1,2 @@
-In this assignment a stack was created and used to convert evaluate postfix expressions
+Postfix Expression Calculator
+In this assignment a stack was created and used to evaluate postfix expressions
